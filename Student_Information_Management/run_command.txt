@@ -1,0 +1,2 @@
+in 1st terminal :- uvicorn api_server:app --reload
+in 2nd terminal :- python api_client.py
